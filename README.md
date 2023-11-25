@@ -1,0 +1,2 @@
+# argocd-local
+local-system
